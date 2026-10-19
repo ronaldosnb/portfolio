@@ -1,6 +1,6 @@
 # Portfólio — Ronaldo Batista
 
-Portfólio de Ronaldo Batista, desenvolvedor full-stack com foco em backend e automação: https://ronaldosnb.dev
+Portfólio de Ronaldo Batista, desenvolvedor full-stack com foco em backend e automação: https://ronaldosnb.com
 
 ## Stack do site
 
